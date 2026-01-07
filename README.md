@@ -6,3 +6,5 @@ The repo contains three notebooks one on each of python modules, linear regressi
 
 WEEK 2:
 
+Learnt different topics in deeplearning, tensorflow and YOLO.
+Did assignments using neural networks and YOLO.
